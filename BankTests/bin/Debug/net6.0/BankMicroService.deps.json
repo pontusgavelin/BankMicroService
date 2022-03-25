@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BankMicroService/1.0.0": {
+        "dependencies": {
+          "LoggerService": "1.0.0"
+        },
+        "runtime": {
+          "BankMicroService.dll": {}
+        }
+      },
+      "LoggerService/1.0.0": {
+        "runtime": {
+          "LoggerService.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BankMicroService/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LoggerService/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

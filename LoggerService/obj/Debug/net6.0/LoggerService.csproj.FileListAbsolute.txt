@@ -1,0 +1,12 @@
+/Users/pontus.gavelin/Desktop/Code/Training/Tech_Evolution/BankMicroService/LoggerService/bin/Debug/net6.0/LoggerService.deps.json
+/Users/pontus.gavelin/Desktop/Code/Training/Tech_Evolution/BankMicroService/LoggerService/bin/Debug/net6.0/LoggerService.dll
+/Users/pontus.gavelin/Desktop/Code/Training/Tech_Evolution/BankMicroService/LoggerService/bin/Debug/net6.0/ref/LoggerService.dll
+/Users/pontus.gavelin/Desktop/Code/Training/Tech_Evolution/BankMicroService/LoggerService/bin/Debug/net6.0/LoggerService.pdb
+/Users/pontus.gavelin/Desktop/Code/Training/Tech_Evolution/BankMicroService/LoggerService/obj/Debug/net6.0/LoggerService.csproj.AssemblyReference.cache
+/Users/pontus.gavelin/Desktop/Code/Training/Tech_Evolution/BankMicroService/LoggerService/obj/Debug/net6.0/LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pontus.gavelin/Desktop/Code/Training/Tech_Evolution/BankMicroService/LoggerService/obj/Debug/net6.0/LoggerService.AssemblyInfoInputs.cache
+/Users/pontus.gavelin/Desktop/Code/Training/Tech_Evolution/BankMicroService/LoggerService/obj/Debug/net6.0/LoggerService.AssemblyInfo.cs
+/Users/pontus.gavelin/Desktop/Code/Training/Tech_Evolution/BankMicroService/LoggerService/obj/Debug/net6.0/LoggerService.csproj.CoreCompileInputs.cache
+/Users/pontus.gavelin/Desktop/Code/Training/Tech_Evolution/BankMicroService/LoggerService/obj/Debug/net6.0/LoggerService.dll
+/Users/pontus.gavelin/Desktop/Code/Training/Tech_Evolution/BankMicroService/LoggerService/obj/Debug/net6.0/ref/LoggerService.dll
+/Users/pontus.gavelin/Desktop/Code/Training/Tech_Evolution/BankMicroService/LoggerService/obj/Debug/net6.0/LoggerService.pdb

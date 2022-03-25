@@ -1,0 +1,20 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=3511dc69_002Dbcf6_002D4a9f_002Db74a_002Dee718432c7ef/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Should_Throw_JsonException_When_Invalid_Json" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::9304A9F6-2036-4AA4-BB0A-9915F6A4227A::net6.0::BankTests.InterestControllerTests.Should_Throw_JsonException_When_Invalid_Json&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=7ba5e2bd_002Dbe8e_002D483a_002D869c_002Df603d5b75943/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Should_Throw_JsonException_When_Invalid_Json #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::9304A9F6-2036-4AA4-BB0A-9915F6A4227A::net6.0::BankTests.InterestControllerTests.Should_Throw_JsonException_When_Invalid_Json&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a0840a9a_002D3472_002D4d9d_002Db0d5_002Dfba140fbcf40/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from BankTests.cs" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Or&gt;
+    &lt;ProjectFile&gt;9304A9F6-2036-4AA4-BB0A-9915F6A4227A/f:BankTests.cs&lt;/ProjectFile&gt;
+    &lt;TestAncestor&gt;
+      &lt;TestId&gt;NUnit3x::B4D463A5-2089-4CD1-ACDB-34E43E3189E9::net6.0::LoggerTests.Tests.Logger_Should_Be_Called&lt;/TestId&gt;
+      &lt;TestId&gt;NUnit3x::9304A9F6-2036-4AA4-BB0A-9915F6A4227A::net6.0::BankTests.InterestControllerTests.Should_Throw_JsonException_When_Invalid_Json&lt;/TestId&gt;
+    &lt;/TestAncestor&gt;
+  &lt;/Or&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
